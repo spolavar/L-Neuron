@@ -1,0 +1,56 @@
+# Edited, By DED & GAA
+# 9-17-01
+1 somadiam k 10 
+3 bifamplitude g 45 20 1 172 
+3 biforient u 0.0 180 
+3 Rall_power k 1.5
+3 Ibf_Branch_pathlength y .877 .013189264 1 0 546
+3 Term_Branch_pathlength k 12
+3 N_stems g 3.00 1.32287554609202 1 6
+3 treeazim u -180 180 
+3 treeelev u 100 180 
+3 contraction m 3 
+3 contraction g 0.40 1.0 0.1 0.1 1.0
+3 contraction u 0.08 0.5 0.8
+3 contraction k 0.52 1.0
+3 fragmentation k 1 
+3 PK m 2
+3 PK k 0.55 2
+3 PK y .45 2.77 1.88 1 .1 2    #Max PK of 2 
+3 Diam_threshold y 3.85 7.49 1 .18 1.55
+3 Daughter_Ratio m 2
+3 Daughter_Ratio y 0.35 6.4 2.8 1 1 8.7
+3 Daughter_Ratio k 0.65 1
+3 Taper_2 m 2
+3 Taper_2 g .51 .5 .2 .016 .95  #no neg's included
+3 Taper_2 k .49 0			#no neg's included
+3 Stem_Diameter y 3.67 2.35 1 .48 4.608
+#
+4 bifamplitude g 45 20 1 172 
+4 biforient u 0.0 180 
+4 Rall_power k 1.5
+4 Ibf_Branch_pathlength y .98 .013389 1 0 890
+4 Term_Branch_pathlength k 12
+4 N_stems m 2
+4 N_stems k .083 2
+4 N_stems k .917 1
+4 treeazim u -180 180 
+4 treeelev u 0 5 
+4 contraction m 3 
+4 contraction g 0.40 1.0 0.1 0.1 1.0
+4 contraction u 0.08 0.5 0.8
+4 contraction k 0.52 1.0
+4 fragmentation k 1 
+4 PK m 2
+4 PK y .62 5.5604 4.218 1 .1676 2   #Max PK of 2
+4 PK k 0.38 2
+4 Diam_threshold y 3.3 7.03 1 .16 2.59
+4 Daughter_Ratio m 2
+4 Daughter_Ratio y 0.57 3.74 1.178 1 1 16.75
+4 Daughter_Ratio k 0.43 1
+4 Taper_2 m 2
+4 Taper_2 g .44 .525 .211 .0777 .95   #no neg's included
+4 Taper_2 k .56 0 				#no neg's included
+4 Stem_Diameter y 5.78 1.865 1 .48 5.74
+
+
